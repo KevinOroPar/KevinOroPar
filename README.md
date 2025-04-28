@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kevin Orozco</h1>
 
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmg1N3JxZzZ2Z3g0eTA2Y3hzOW9pNGJwZXo4YXpleTBrcThndjdkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7FrOU9tPbgAZtxV5mb/giphy.gif)
+![](dev.gif)
 
 ## 💫 About Me:
 <div style="text-align: justify">I'm a Computer Science Engineer currently working as a SOC Analyst, passionate about coding, backend development and cybersecurity. Always curious and eager to learn new things, I thrive on gaining knowledge and expanding my skills </div>
@@ -27,12 +27,6 @@ Kevin = {
 ![](https://github-readme-stats.vercel.app/api?username=KevinOroPar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KevinOroPar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinOroPar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KevinOroPar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KevinOroPar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinOroPar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KevinOroPar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
