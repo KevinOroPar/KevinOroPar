@@ -1,8 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin Orozco</h1>
-
-<p align="center">
-  <img src="dev.gif" alt="animated" />
-</p>
+<h1 align="center">Hi 👋, I'm Kevin Orozco Pardo</h1>
 
 ## 💫 About Me:
 <div style="text-align: justify">I'm a Computer Science Engineer currently working as a SOC Analyst, passionate about coding, backend development and cybersecurity. Always curious and eager to learn new things, I thrive on gaining knowledge and expanding my skills </div>
